@@ -1,0 +1,20 @@
+.bg-head-info{
+    background-color: #264653;
+    
+}
+.purchase-btn{
+    background-color: #E76F51;
+    color: white;
+    padding: 10px;
+    
+}
+.grey-scaler{
+    filter:grayscale(100%);
+}
+h1{
+    font-size: 48px;
+    /* align-items: center; */
+}
+p{
+    font-size: 16px;
+}
