@@ -11,9 +11,23 @@
 .grey-scaler{
     filter:grayscale(100%);
 }
+.specific{
+    color:#E76F51;
+}
+.fa-star.empty{
+    border-color:#E76F51 ;
+    color:white;
+}
+.t-details{
+    color: #23A6F0;
+    font-size: 14px;
+}
+.t2-details{
+   color: #252B42;
+   font-size: 14px;
+}
 h1{
     font-size: 48px;
-    /* align-items: center; */
 }
 p{
     font-size: 16px;
